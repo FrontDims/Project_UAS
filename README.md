@@ -9,3 +9,4 @@ aku (dony), Abduh, Akmal satu atap bahagia bahkan tuk selamanya, salam import re
 
 suara motor aku (dony), semakin mendekat untuk kerumah Abduh.
 kita berupaya mencari cara menyelesaikan project
+**HARUS INSTALL MODULS. KALO GA TAU CARANYA DOWNLOAD AJA YANG DI WA YA** 
